@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio avançado - Recriando Layout <a href="https://app.rocketseat.com.br/journey/explorer">Rocketseat.</a> </h1>
+<h1 align="center"> Aprendendo a Utilizar Responsividade <a href="https://app.rocketseat.com.br/journey/explorer">Rocketseat.</a> </h1>
 <h3 align="center"> Aprendendo Responsividade.</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Diante o aprendizado do curso aprendemos a utilziar a responsividade para desenvolvimento web utilizando também as *media queries*
+Diante o aprendizado do curso aprendemos a utilziar a responsividade para desenvolvimento web utilizando também as *media queries*.
 
 
 ---
